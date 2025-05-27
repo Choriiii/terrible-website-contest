@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    box-sizing: border-box;
+    text-align: center;
+}
+body{
+    background-color: fuchsia;
+}
+#Hide img{
+    width: 400px;
+}
